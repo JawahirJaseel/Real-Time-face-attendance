@@ -1,0 +1,9 @@
+opencv-python
+dlib
+cmake
+face-recognition
+numpy
+pandas
+tensorflow
+scikit-learn
+pywin32
